@@ -1,0 +1,2 @@
+settlement_id,settlement_name,settlement_type,region_id,source_type,source_note,verification_status
+INDRAPRASTHA,Indraprastha,capital_city,PANDAVA_REALM,epic_narrative,"Narrative fixture: associated with the Pandavas in Mahabharata tradition; exact historical location and status are not asserted.",narrative_fixture
